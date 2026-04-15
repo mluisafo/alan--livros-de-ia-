@@ -1,0 +1,8 @@
+{
+  "name": "Gerador de Livros com IA",
+  "version": "1.0.0",
+  "description": "Software inteligente para gerar, corrigir e publicar livros em PDF usando IA",
+  "keywords": ["livros", "IA", "gerador", "histórias", "PDF"],
+  "author": "Alan",
+  "license": "MIT"
+}
